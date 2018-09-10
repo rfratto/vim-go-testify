@@ -1,6 +1,8 @@
 # vim-go-testify
 
-This plugin adds a `:GoTestify` command on top of [vim-go](https://github.com/fatih/vim-go).
+This plugin adds a `:GoTestify` command on top of [vim-go](https://github.com/fatih/vim-go), 
+enabling vim/neovim to parse errors from [testify](https://github.com/stretchr/testify) and load 
+messages into the quickfix window. 
 
 ## Dependencies
 
